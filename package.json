@@ -1,0 +1,31 @@
+{
+  "private": "true",
+  "name": "@types/logger-decorator",
+  "version": "1.8.1",
+  "homepage": "https://github.com/timk153/logger-decorator-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timk153/logger-decorator-types.git"
+  },
+  "author": "Tim Kilminster",
+  "license": "MIT",
+  "keywords": [
+    "@types",
+    "logger-decorato"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "@typescript-eslint/parser": "^7.18.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^18.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.3.3",
+    "typescript": "^3.9.10"
+  }
+}
