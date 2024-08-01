@@ -1,5 +1,4 @@
 {
-  "private": "true",
   "name": "@types/logger-decorator",
   "version": "1.8.1",
   "homepage": "https://github.com/timk153/logger-decorator-types",
